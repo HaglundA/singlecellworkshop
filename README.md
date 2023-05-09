@@ -1,7 +1,7 @@
 
-This repository contains materials for the Imperial MSc Genomic Medicine single-cell workshop (May 2023).
+### This repository contains materials for the Imperial MSc Genomic Medicine single-cell workshop (May 2023).
 
-In this workshop, we will analyse a single-cell dataset published on PBMCs.
+In this workshop, we will analyse a single-cell dataset published on PBMCs. This is a modified tutorial from 
 
 
 By the end of this tutorial, you should be able to;
